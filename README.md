@@ -5,5 +5,5 @@
 - 💬 Ask me about: Anything but C#.
 - 📫 How to reach me: Please don't.
 - 😄 Pronouns: Me, myself and I.
-- 
+
 - ⚡ Fun fact: Dolphins seem to use toxic pufferfish to get high. 
